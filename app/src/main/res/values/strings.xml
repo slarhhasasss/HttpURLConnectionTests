@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HttpUrlConnectionTest</string>
+    <string name="connected">Connected!</string>
+    <string name="no_connection">No connection!</string>
+    <string name="check_connection">Check Connection</string>
+    <string name="download_page">downLoad page</string>
+    <string name="url">Url:</string>
+    <string name="download_image">Download image</string>
+    <string name="text_from_page">Text from page...</string>
+    <string name="no_url">No url!</string>
+    <string name="add_url">Add url</string>
+    <string name="not_saved">Not saved!</string>
+    <string name="saved">Saved!</string>
+
+    <string name="url_alexander_klimov">http://developer.alexanderklimov.ru/android</string>
+    <string name="menu_item_alexander_klimov">AleksandrKlimov</string>
+
+    <string name="url_alexander_klimov_image">http://developer.alexanderklimov.ru/android/images/android_cat.jpg</string>
+    <string name="menu_item_alexander_klimov_image">ImageFromAlexKlimov</string>
+
+
+    <string name="unreal_to_download">Unreal to download image from this url!</string>
+</resources>
